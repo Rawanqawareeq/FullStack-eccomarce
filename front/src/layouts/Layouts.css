@@ -1,0 +1,11 @@
+.layouts{
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 1030px) {
+    .dash{
+        display: flex;
+        flex-direction: column;
+    }
+}
